@@ -16,7 +16,7 @@ My research experience spans computer architecture, operating and file systems, 
 - Explored collaborative filtering (CF)-based recommender systems for personalizing question selection in computer-based assessments by predicting student performance on new, unseen questions using past scores.
 
 **Predictive Models for Cyber Threat Trend Analysis** [[Code]](https://github.com/Sof0-0/CyberAttacks.github.io) [[Paper]](https://sof0-0.github.io/CyberAttacks.github.io/)\
-![Data Science Badge](https://img.shields.io/badge/DataScience-blue) 
+![Data Science Badge](https://img.shields.io/badge/DataScience-blue) ![Cybersecurity Badge] (https://img.shields.io/badge/Cybersecurity-purple)
 - Developed two mixed precision variants of the Minimal Residual (MINRES) method for solving sparse saddle-point linear systems, allowing users to adjust the precision of preconditioner solves and matrix-vector products.
 
 **MIPS R4000 Simulator for an 8-Stage Pipeline** [[Code]](https://github.com/Sof0-0/MIPS-R4000)
