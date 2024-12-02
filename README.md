@@ -27,19 +27,13 @@ My research experience spans computer architecture, operating and file systems, 
 ![Computer Architecture Badge](https://img.shields.io/badge/HCI-pink](https://img.shields.io/badge/Computer%20Architecture-pink)
 - Conducted a thematic analysis of computer-based assessment questions in undergraduate CS courses to investigate how instructors integrate randomization into their assessment questions.
 
-
-**Enhancing Transparent Model Reporting with Automated Model Cards in Tribuo** [[Code]](https://github.com/oracle/tribuo/tree/main/Interop/ModelCard) [[Paper]](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)\
-![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple) ![Systems Badge](https://img.shields.io/badge/Systems-blue)
-- Conducted semi-structured interviews with ML and data professionals from academia (N = 6) and industry (N = 6) to assess current workflows and explore how data provenance could streamline these processes.
-- Identified ML model documentation as a key pain point for many participants and subsequently designed, implemented, and tested the Model Card package for Tribuo, Oracle’s open-source Java ML library, to facilitate the creation of partially automated documentation cards for ML models.
-
 --------------
 ## Publications
 1. Daniel Doss, Daniel Scherr, William Rials, Linda Taylor, David McElreath, and Sofiia Druchyna. October, 2023. Examining the Effect of the 2015 Cybersecurity Information Sharing Act (CISA) Regarding Reported Cybercrime Incidents of Online Romance Fraud. Mid-South Sociological Association Conference. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
 
 --------------
 ## Teaching
-As a teaching assistant, I have had the pleasure of helping with the following courses:
+I have had the pleasure of assisting with instruction of the following courses:
 
 - **COS 316 Computer Systems Design**, Princeton University (Assistant Instructor) (Fall 2024)
 - **CPMPS 1600 Introduction to Computer Science II**, Tulane University (Teaching Assistant) (Spring 2023)
