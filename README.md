@@ -24,7 +24,7 @@ My research experience spans computer architecture, operating and file systems, 
 - Analyzed the effects of four low precision training schemes on both the training time and classification accuracy of four deep learning models from the domains of image and text classification.
 
 **RISC-V Disassembler** [[Code]](https://github.com/Sof0-0/RISC-V-Disassembler)
-![Computer Architecture Badge](https://img.shields.io/badge/HCI-pink](https://img.shields.io/badge/Computer%20Architecture-pink)
+![Computer Architecture Badge](https://img.shields.io/badge/Computer%20Architecture-pink) 
 - Conducted a thematic analysis of computer-based assessment questions in undergraduate CS courses to investigate how instructors integrate randomization into their assessment questions.
 
 --------------
