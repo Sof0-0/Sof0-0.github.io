@@ -11,7 +11,8 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Projects
-**Honors Thesis: "Enhancing Teaching Methods of File Systems from the Educational Perspective"** [[Paper]](https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326) \
+**Honors Thesis: "Enhancing Teaching Methods of File Systems from the Educational Perspective"** 
+[[Paper]](https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326) \
 ![File Systems Badge](https://img.shields.io/badge/File%20Systems-green) ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Developed an innovative teaching approach that introduces undergraduate students to the concepts of file systems through hands-on experience. WaveFS is a new lab assignment for the Computer Systems and Networking class at Tulane University, focusing on creating a simple Unix-like file system using the File System in Userspace (FUSE) interface. The lab assignment involves implementing basic file system operations to read and write data, as well as manage directories and files.
 
