@@ -11,7 +11,7 @@ My research experience spans computer architecture, operating and file systems, 
 
 --------------
 ## Projects
-**Honors Thesis: "Enhancing Teaching Methods of File Systems from the Educational Perspective"** [[Paper]] (https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326)\
+**Honors Thesis: "Enhancing Teaching Methods of File Systems from the Educational Perspective"** [[Paper](https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326)\
 ![File Systems Badge](https://img.shields.io/badge/File%20Systems-green) ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Explored collaborative filtering (CF)-based recommender systems for personalizing question selection in computer-based assessments by predicting student performance on new, unseen questions using past scores.
 
@@ -19,17 +19,17 @@ My research experience spans computer architecture, operating and file systems, 
 ![Data Science Badge](https://img.shields.io/badge/DataScience-blue) ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-purple)
 - Developed two mixed precision variants of the Minimal Residual (MINRES) method for solving sparse saddle-point linear systems, allowing users to adjust the precision of preconditioner solves and matrix-vector products.
 
-**MIPS R4000 Simulator for an 8-Stage Pipeline** [[Code]](https://github.com/Sof0-0/MIPS-R4000)
+**MIPS R4000 Simulator for an 8-Stage Pipeline** [[Code]](https://github.com/Sof0-0/MIPS-R4000) \
 ![Computer Architecture Badge](https://img.shields.io/badge/Computer%20Architecture-pink) 
 - Analyzed the effects of four low precision training schemes on both the training time and classification accuracy of four deep learning models from the domains of image and text classification.
 
-**RISC-V Disassembler** [[Code]](https://github.com/Sof0-0/RISC-V-Disassembler)
+**RISC-V Disassembler** [[Code]](https://github.com/Sof0-0/RISC-V-Disassembler) \
 ![Computer Architecture Badge](https://img.shields.io/badge/Computer%20Architecture-pink) 
 - Conducted a thematic analysis of computer-based assessment questions in undergraduate CS courses to investigate how instructors integrate randomization into their assessment questions.
 
 --------------
 ## Publications
-1. Daniel Doss, Daniel Scherr, William Rials, Linda Taylor, David McElreath, and Sofiia Druchyna. October, 2023. Examining the Effect of the 2015 Cybersecurity Information Sharing Act (CISA) Regarding Reported Cybercrime Incidents of Online Romance Fraud. Mid-South Sociological Association Conference. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
+1. Daniel Doss, Daniel Scherr, William Rials, Linda Taylor, David McElreath, and Sofiia Druchyna. October, 2023. Examining the Effect of the 2015 Cybersecurity Information Sharing Act (CISA) Regarding Reported Cybercrime Incidents of Online Romance Fraud. Mid-South Sociological Association Conference. [ResearchGate](https://www.researchgate.net/publication/374415670_Examining_the_Effect_of_the_2015_Cybersecurity_Information_Sharing_Act_CISA_Regarding_Reported_Cybercrime_Incidents_of_Online_Romance_Fraud#fullTextFileContent).
 
 --------------
 ## Teaching
