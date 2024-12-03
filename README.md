@@ -17,7 +17,7 @@ My research experience spans machine learning, artificial intelligence, computer
 - Developed an innovative teaching approach that introduces undergraduate students to the concepts of file systems through hands-on experience. WaveFS is a new lab assignment for the Computer Systems and Networking class at Tulane University, focusing on creating a simple Unix-like file system using the File System in Userspace (FUSE) interface. The lab assignment involves implementing basic file system operations to read and write data, as well as manage directories and files.
 
 **Predictive Models for Cyber Threat Trend Analysis** [[Code]](https://github.com/Sof0-0/CyberAttacks.github.io) [[Paper]](https://sof0-0.github.io/CyberAttacks.github.io/)\
-![Data Science Badge](https://img.shields.io/badge/DataScience-blue) ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-purple) ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow)
+![Data Science Badge](https://img.shields.io/badge/Data%20Science-blue) ![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-purple) ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow)
 - Provided insights into cyber threat actors' behavior and motives using machine learning methods, particularly KNN classifiers as well as identified common cyberattack trends using advanced data science techniques. The findings can be used for predictive analysis of future cyber threats and to enhance global threat intelligence.
 
 **MIPS R4000 Simulator for an 8-Stage Pipeline** [[Code]](https://github.com/Sof0-0/MIPS-R4000) \
