@@ -34,10 +34,11 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Teaching
-I have had the pleasure of assisting with instruction of the following courses:
+I have had the privilege of contributing to the instruction of the following courses:
 
 - **COS 316 Computer Systems Design**, Princeton University (Assistant Instructor) (Fall 2024)
-- **CPMPS 1600 Introduction to Computer Science II**, Tulane University (Teaching Assistant) (Spring 2023)
 - **CMPS 2300 Computer Systems and Networking**, Tulane University (Assistant Instructor) (2023-2024)
+- **CPMPS 1600 Introduction to Computer Science II**, Tulane University (Teaching Assistant) (Spring 2023)
+
 
 
