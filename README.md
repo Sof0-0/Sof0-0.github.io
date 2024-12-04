@@ -1,6 +1,6 @@
 I am a fully-funded Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/). 
 
-I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity at the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
+I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity from the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
 
 My research experience spans machine learning, artificial intelligence, computer architecture, computer systems (focusing on OS and file systems), LLMs, and cybersecurity policy. My current research interests are in **Algorithmic Decision-Making**, **AI and Education**, **Probability, Statistics and Machine Learning**, and **Data Science**.
 
@@ -30,7 +30,15 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Publications
-1. Daniel Doss, Daniel Scherr, William Rials, Linda Taylor, David McElreath, and Sofiia Druchyna. October, 2023. Examining the Effect of the 2015 Cybersecurity Information Sharing Act (CISA) Regarding Reported Cybercrime Incidents of Online Romance Fraud. Mid-South Sociological Association Conference. [[ResearchGate]](https://www.researchgate.net/publication/374415670_Examining_the_Effect_of_the_2015_Cybersecurity_Information_Sharing_Act_CISA_Regarding_Reported_Cybercrime_Incidents_of_Online_Romance_Fraud#fullTextFileContent).
+1. Daniel Doss, Daniel Scherr, William Rials, Linda Taylor, David McElreath, and Sofiia Druchyna. October, 2023. _Examining the Effect of the 2015 Cybersecurity Information Sharing Act (CISA) Regarding Reported Cybercrime Incidents of Online Romance Fraud._ Mid-South Sociological Association Conference. [[ResearchGate]](https://www.researchgate.net/publication/374415670_Examining_the_Effect_of_the_2015_Cybersecurity_Information_Sharing_Act_CISA_Regarding_Reported_Cybercrime_Incidents_of_Online_Romance_Fraud#fullTextFileContent).
+
+--------------
+## Professional Experience
+- **Program Analyst Intern (AppSec)**, BeyondTrust (Spring 2024)
+    - Improving the SAST operations for code scanning by analyzing the existing coverage gaps and researching alternative solutions to create effective operational processes and introduce more robust scanning methods.
+- **IT Department Assistant**, Tulane University (2022-2024)
+    - Organizing and Executing Cybersecurity Competition Events.
+    - Managing Information Technology Departmental Operations.
 
 --------------
 ## Teaching
