@@ -35,7 +35,7 @@ My research experience spans machine learning, artificial intelligence, computer
 --------------
 ## Professional Experience
 **Program Analyst Intern (AppSec)**, _BeyondTrust_ (Spring 2024) \
-    - Improving the SAST operations for code scanning by analyzing the existing coverage gaps and researching alternative solutions to create effective operational processes and introduce more robust scanning methods.
+    - Improving the SAST operations for code scanning by analyzing the existing coverage gaps and researching alternative solutions to create effective operational processes and introduce more robust scanning methods. \
 **IT Department Assistant**, _Tulane University_ (2022-2024) \
     - Organizing and Executing Cybersecurity Competition Events.
     - Managing Information Technology Departmental Operations.
