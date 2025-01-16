@@ -11,11 +11,11 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Projects
-**"Bridging Predictions and Interventions in High Impact Data-Driven College Advising"** (Ongoing) \
+**Bridging Predictions and Interventions in High Impact Data-Driven College Advising** (Ongoing) \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Statistics Badge](https://img.shields.io/badge/Statistics-lightblue) ![Causal Inference Badge](https://img.shields.io/badge/Causal%20Inference-maroon) ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
 
-**"CHANE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education"** (Ongoing) \
+**CHANE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (Ongoing) \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs (CHANE) before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
