@@ -1,4 +1,4 @@
-I am a fully-funded first-year Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/), advised by [Professor Elad Hazan](https://www.ehazan.com). 
+I am a fully-funded first year Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/), advised by [Professor Elad Hazan](https://www.ehazan.com). 
 
 I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity from the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
 
@@ -12,17 +12,16 @@ My research experience spans machine learning, artificial intelligence, computer
 --------------
 ## Projects
 
+**A New Approach to Controlling Linear Dynamical Systems** (In Proceedings) 
+[[arXiv]]([https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326](https://www.arxiv.org/abs/2504.03952)) \
+*Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-darkgreen)
+- Proposed a new method for controlling linear dynamical systems under adversarial disturbances and cost functions. Our algorithm achieves a running time that scales polylogarithmically with the inverse of the stability margin, improving upon prior methods with polynomial dependence maintaining the same regret guarantees.
+
 **SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (Ongoing) \
 *Devan Shah, Shlomo Fortgang, Sofiia Druchyna, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow)
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
-
-
-**A New Approach to Controlling Linear Dynamical Systems** (In Proceedings) 
-[[arXiv]]([https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326](https://www.arxiv.org/abs/2504.03952)) \
-*Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
-![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-gold)
-- Proposed a new method for controlling linear dynamical systems under adversarial disturbances and cost functions. Our algorithm achieves a running time that scales polylogarithmically with the inverse of the stability margin, improving upon prior methods with polynomial dependence maintaining the same regret guarantees.
 
 **Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising** (In Proceedings) \
 *Sofiia Druchyna\*, Kara Schechtman\*, Hannah Li, Lydia Liu* \
