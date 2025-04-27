@@ -13,7 +13,7 @@ My research experience spans machine learning, artificial intelligence, computer
 ## Projects
 
 **SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (Ongoing) \
-*Devan Shah, Shlomo Fortgang, Sofiia Druchyna\*, Elad Hazan* \
+*Devan Shah, Shlomo Fortgang, Sofiia Druchyna, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow)
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
 
@@ -31,14 +31,14 @@ My research experience spans machine learning, artificial intelligence, computer
 
 
 **Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Ongoing) \
-*Romina Mahinpei\*, Sofiia Druchyna\* \
+*Romina Mahinpei\*, Sofiia Druchyna\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
 
 
 **CHANE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** \
-*Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi* \
+*Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference.
