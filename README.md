@@ -20,7 +20,7 @@ My research experience spans machine learning, artificial intelligence, computer
 
 **SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (Ongoing) \
 *Devan Shah, Shlomo Fortgang, Sofiia Druchyna, Elad Hazan* \
-![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLM Badge](https://img.shields.io/badge/LLM-darkpink) 
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
 
 **Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising** (In Proceedings) \
@@ -32,7 +32,7 @@ My research experience spans machine learning, artificial intelligence, computer
 **Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Ongoing) \
 *Romina Mahinpei\*, Sofiia Druchyna\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
-![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
+![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
 
 
