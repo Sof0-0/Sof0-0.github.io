@@ -20,7 +20,7 @@ My research experience spans machine learning, artificial intelligence, computer
 
 **SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (Ongoing) \
 *Devan Shah, Shlomo Fortgang, Sofiia Druchyna, Elad Hazan* \
-![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow)
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLM Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
 
 **Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising** (In Proceedings) \
@@ -40,7 +40,7 @@ My research experience spans machine learning, artificial intelligence, computer
 *Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
-- Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference.
+- Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference in Philadelphia, PA.
 - Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs (CHANE) before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
 
 
@@ -62,7 +62,7 @@ My research experience spans machine learning, artificial intelligence, computer
 - Built a disassembler that takes in a binary file (or a text file) as input and displays the equivalent RISC-V assembly instructions along with the binary code.
 
 
-\* Equal contribution.
+\* Authors contributed equally to this work.
 
 --------------
 ## Publications
