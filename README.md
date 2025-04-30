@@ -13,7 +13,7 @@ My research experience spans machine learning, artificial intelligence, computer
 ## Projects
 
 **A New Approach to Controlling Linear Dynamical Systems** (In Proceedings) 
-[[arXiv]]([https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326](https://www.arxiv.org/abs/2504.03952)) \
+[[arXiv]](https://www.arxiv.org/abs/2504.03952) \
 *Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-darkgreen)
 - Proposed a new method for controlling linear dynamical systems under adversarial disturbances and cost functions. Our algorithm achieves a running time that scales polylogarithmically with the inverse of the stability margin, improving upon prior methods with polynomial dependence maintaining the same regret guarantees.
