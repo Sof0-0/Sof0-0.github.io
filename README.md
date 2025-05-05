@@ -36,13 +36,12 @@ My research experience spans machine learning, artificial intelligence, computer
 - Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
 
 
-**CHANE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** \
+**CHANE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (In Proceedings) \
 *Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference in Philadelphia, PA.
 - Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs (CHANE) before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
-
 
 **Honors Thesis: "Enhancing Teaching Methods of File Systems from the Educational Perspective"** 
 [[Paper]](https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326) \
@@ -70,6 +69,8 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Professional Experience
+**SDE Intern**, _Amazon_ (Summer 2025) 
+
 **Program Analyst Intern (AppSec)**, _BeyondTrust_ (Spring 2024) 
 - Improving the SAST operations for code scanning by analyzing the existing coverage gaps and researching alternative solutions to create effective operational processes and introduce more robust scanning methods. 
     
