@@ -69,7 +69,7 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Professional Experience
-**SDE Intern**, _Amazon_ (Summer 2025) 
+**Software Development Engineer Intern**, _Amazon_ (Summer 2025) 
 
 **Program Analyst Intern (AppSec)**, _BeyondTrust_ (Spring 2024) 
 - Improving the SAST operations for code scanning by analyzing the existing coverage gaps and researching alternative solutions to create effective operational processes and introduce more robust scanning methods. 
