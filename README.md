@@ -19,11 +19,13 @@ My research experience spans machine learning, artificial intelligence, computer
 - Proposed a new method for controlling linear dynamical systems under adversarial disturbances and cost functions. Our algorithm achieves a running time that scales polylogarithmically with the inverse of the stability margin, improving upon prior methods with polynomial dependence maintaining the same regret guarantees.
 
 **SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (Ongoing) \
+[[arXiv]](https://arxiv.org/abs/2505.17868) \
 *Devan Shah, Shlomo Fortgang, Sofiia Druchyna, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
 
-**Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising** (In Proceedings) \
+**Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising** (In Proceedings) 
+[[arXiv]](https://arxiv.org/abs/2505.13325) \
 *Sofiia Druchyna\*, Kara Schechtman\*, Hannah Li, Lydia Liu* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Statistics Badge](https://img.shields.io/badge/Statistics-lightblue) ![Causal Inference Badge](https://img.shields.io/badge/Causal%20Inference-maroon) ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
