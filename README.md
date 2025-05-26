@@ -18,7 +18,7 @@ My research experience spans machine learning, artificial intelligence, computer
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-darkgreen)
 - Proposed a new method for controlling linear dynamical systems under adversarial disturbances and cost functions. Our algorithm achieves a running time that scales polylogarithmically with the inverse of the stability margin, improving upon prior methods with polynomial dependence maintaining the same regret guarantees.
 
-**SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (Ongoing) \
+**SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (In Proceedings)
 [[arXiv]](https://arxiv.org/abs/2505.17868) \
 *Devan Shah, Shlomo Fortgang, Sofiia Druchyna, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
@@ -31,7 +31,7 @@ My research experience spans machine learning, artificial intelligence, computer
 - Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
 
 
-**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Ongoing) \
+**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (In Proceedings) \
 *Romina Mahinpei\*, Sofiia Druchyna\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
