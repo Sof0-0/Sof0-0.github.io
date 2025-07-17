@@ -12,6 +12,12 @@ My research experience spans machine learning, artificial intelligence, computer
 --------------
 ## Projects
 
+**Efficient Spectral Control of Partially Observed Linear Dynamical Systems** (In Proceedings) 
+[[arXiv]](https://arxiv.org/pdf/2505.20943) \
+*Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-darkgreen)
+- Proposed a new method for controlling linear dynamical systems under partial observation and adversarial disturbances. Our new algorithm, Double Spectral Control (DSC), matches the best known regret guarantees while exponentially improving runtime complexity over previous approaches in its dependence on the system's stability margin.
+  
 **A New Approach to Controlling Linear Dynamical Systems** (In Proceedings) 
 [[arXiv]](https://www.arxiv.org/abs/2504.03952) \
 *Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
@@ -24,19 +30,11 @@ My research experience spans machine learning, artificial intelligence, computer
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
 
-**Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising** (In Proceedings) 
-[[arXiv]](https://arxiv.org/abs/2505.13325) \
-*Sofiia Druchyna\*, Kara Schechtman\*, Hannah Li, Lydia Liu* \
-![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Statistics Badge](https://img.shields.io/badge/Statistics-lightblue) ![Causal Inference Badge](https://img.shields.io/badge/Causal%20Inference-maroon) ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
-- Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
-
-
 **Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (In Proceedings) \
 *Romina Mahinpei\*, Sofiia Druchyna\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
-
 
 **CHANE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (In Proceedings) \
 *Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
@@ -67,11 +65,11 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Publications
-1. Daniel Doss, Daniel Scherr, William Rials, Linda Taylor, David McElreath, and Sofiia Druchyna. October, 2023. _Examining the Effect of the 2015 Cybersecurity Information Sharing Act (CISA) Regarding Reported Cybercrime Incidents of Online Romance Fraud._ Mid-South Sociological Association Conference. [[ResearchGate]](https://www.researchgate.net/publication/374415670_Examining_the_Effect_of_the_2015_Cybersecurity_Information_Sharing_Act_CISA_Regarding_Reported_Cybercrime_Incidents_of_Online_Romance_Fraud#fullTextFileContent).
-
+1. Craig P. Orgeron, William Rials, and Sofiia Druchyna. January 2025. _The AI-Driven State: How Government-as-a-Service Is Transforming Public Service._ International Journal of Electronic Government Research (IJEGR), 21(1), 1–24. [[IGI Global Scientific Publishing]](https://www.igi-global.com/article/the-ai-driven-state/381327).
 --------------
 ## Professional Experience
 **Software Development Engineer Intern**, _Amazon_ (Summer 2025) 
+- AGI High Performance Computing Team
 
 **Program Analyst Intern (AppSec)**, _BeyondTrust_ (Spring 2024) 
 - Improving the SAST operations for code scanning by analyzing the existing coverage gaps and researching alternative solutions to create effective operational processes and introduce more robust scanning methods. 
