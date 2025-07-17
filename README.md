@@ -67,10 +67,11 @@ My research experience spans machine learning, artificial intelligence, computer
 ## Publications
 
 1. Craig P. Orgeron, William Rials, and Sofiia Druchyna. January 2025. _The AI-Driven State: How Government-as-a-Service Is Transforming Public Service._ International Journal of Electronic Government Research (IJEGR), 21(1), 1–24. [IGI Global Scientific Publishing](https://www.igi-global.com/article/the-ai-driven-state/381327).
+   
 --------------
 ## Professional Experience
 **Software Development Engineer Intern**, _Amazon_ (Summer 2025) 
-- AGI High Performance Computing Team
+- AGI High Performance Computing Team.
 
 **Program Analyst Intern (AppSec)**, _BeyondTrust_ (Spring 2024) 
 - Improving the SAST operations for code scanning by analyzing the existing coverage gaps and researching alternative solutions to create effective operational processes and introduce more robust scanning methods. 
