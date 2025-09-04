@@ -1,4 +1,4 @@
-I am a fully-funded first year Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/), advised by [Professor Elad Hazan](https://www.ehazan.com). 
+I am a fully-funded second year Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/), advised by [Professor Elad Hazan](https://www.ehazan.com). 
 
 I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity from the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
 
@@ -83,7 +83,7 @@ My research experience spans machine learning, artificial intelligence, computer
 ## Teaching
 I have had the privilege of contributing to the instruction of the following courses:
 
-- **COS 324 Introduction to ML**, Princeton University (Assistant Instructor) (Spring 2025)
+- **COS 324 Introduction to ML**, Princeton University (Assistant Instructor) (Spring 2025, Fall 2025)
 - **COS 316 Computer Systems Design**, Princeton University (Assistant Instructor) (Fall 2024)
 - **CMPS 2300 Computer Systems and Networking**, Tulane University (Assistant Instructor) (2023-2024)
 - **CPMPS 1600 Introduction to Computer Science II**, Tulane University (Teaching Assistant) (Spring 2023)
