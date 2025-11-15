@@ -36,7 +36,7 @@ My research experience spans machine learning, artificial intelligence, computer
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
 
-**CHANE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (Submitted to SIGCSE 2026) \
+**CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (SIGCSE TS 2026 Poster) \
 *Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
