@@ -66,6 +66,8 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Publications
+- Anand Brahmbhatt, Gon Buzaglo, and Sofiia Druchyna. September 2025. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026. [arXiV](https://www.arxiv.org/abs/2504.03952).
+  
 - Anand Brahmbhatt, Gon Buzaglo, and Sofiia Druchyna. September 2025. _Efficient Spectral Control of Partially Observed Linear Dynamical Systems._ NEURIPS 2025, DynaFront Workshop. [arXiV](https://arxiv.org/pdf/2505.20943).
   
 - Devan Shah, Shlomo Fortgang, and Sofiia Druchyna. September 2025. _SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models._ NEURIPS 2025. [arXiV](https://arxiv.org/abs/2505.17868).
