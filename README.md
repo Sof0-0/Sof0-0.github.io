@@ -18,10 +18,11 @@ My research experience spans machine learning, artificial intelligence, computer
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-darkgreen)
 - Proposed a new method for controlling linear dynamical systems under partial observation and adversarial disturbances. Our new algorithm, Double Spectral Control (DSC), matches the best known regret guarantees while exponentially improving runtime complexity over previous approaches in its dependence on the system's stability margin.
   
-**A New Approach to Controlling Linear Dynamical Systems** (Submitted to ICLR 2026, NYRL Workshop) 
+**A New Approach to Controlling Linear Dynamical Systems** (ICLR 2026) 
 [[arXiv]](https://www.arxiv.org/abs/2504.03952) \
 *Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-darkgreen)
+- Poster presented at NEURIPS 2025 DynaFront (San Diego, CA) and NYRL 2025 (New York, NY) Workshops.
 - Proposed a new method for controlling linear dynamical systems under adversarial disturbances and cost functions. Our algorithm achieves a running time that scales polylogarithmically with the inverse of the stability margin, improving upon prior methods with polynomial dependence maintaining the same regret guarantees.
 
 **SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (NEURIPS 2025)
@@ -30,7 +31,7 @@ My research experience spans machine learning, artificial intelligence, computer
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
 
-**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to LAK 2026) \
+**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CHI 2026) \
 *Romina Mahinpei\*, Sofiia Druchyna\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
