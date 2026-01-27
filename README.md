@@ -2,7 +2,7 @@ I am a fully-funded second year Master of Science & Engineering (MSE) student at
 
 I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity from the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
 
-My research experience spans machine learning theory, deep learning, reinforcement learning, computer architecture, computer systems, LLMs in education, and cybersecurity policy.  My current research interests are in **Spectral Control Theory**, **Online Learning and Optimization**, **Deep RL and Optimization**, **Algorithmic Decision-Making**, **AI and Education**.
+My research experience spans machine learning theory, deep learning, reinforcement learning, computer architecture, computer systems, LLMs in education, and cybersecurity policy.  My current research interests are in **Spectral Control Theory**, **Online Learning and Control**, **Deep RL and Optimization**, **Algorithmic Decision-Making**, **AI and Education**.
 
 <div style="text-align: center;">
 <a href="mailto:sonikd2e3@gmail.com">Email</a> | <a href="assets/files/Resume_Full.pdf">CV</a> | <a href="https://www.linkedin.com/in/sofiia-druchyna-cs/">LinkedIn</a> | <a href="https://www.researchgate.net/profile/Sofiia-Druchyna">ResearchGate</a>
