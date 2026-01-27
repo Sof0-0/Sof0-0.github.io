@@ -2,7 +2,7 @@ I am a fully-funded second year Master of Science & Engineering (MSE) student at
 
 I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity from the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
 
-My research experience spans machine learning, artificial intelligence, computer architecture, computer systems (focusing on OS and file systems), LLMs, and cybersecurity policy.  My current research interests are in **Spectral Control Theory**, **Online Learning and Optimization**, **Post-transformer Architectures**, **Algorithmic Decision-Making**, **AI and Education**, **Probability, Statistics and Machine Learning**, and **Data Science**.
+My research experience spans machine learning theory, deep learning, reinforcement learning, computer architecture, computer systems, LLMs in education, and cybersecurity policy.  My current research interests are in **Spectral Control Theory**, **Online Learning and Optimization**, **Deep RL and Optimization**, **Algorithmic Decision-Making**, **AI and Education**.
 
 <div style="text-align: center;">
 <a href="mailto:sonikd2e3@gmail.com">Email</a> | <a href="assets/files/Resume_Full.pdf">CV</a> | <a href="https://www.linkedin.com/in/sofiia-druchyna-cs/">LinkedIn</a> | <a href="https://www.researchgate.net/profile/Sofiia-Druchyna">ResearchGate</a>
@@ -66,7 +66,7 @@ My research experience spans machine learning, artificial intelligence, computer
 
 --------------
 ## Publications
-- Anand Brahmbhatt, Gon Buzaglo, and Sofiia Druchyna. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026. [arXiV](https://www.arxiv.org/abs/2504.03952).
+- Anand Brahmbhatt, Gon Buzaglo, and Sofiia Druchyna. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
   
 - Anand Brahmbhatt, Gon Buzaglo, and Sofiia Druchyna. September 2025. _Efficient Spectral Control of Partially Observed Linear Dynamical Systems._ NEURIPS 2025, DynaFront Workshop. [arXiV](https://arxiv.org/pdf/2505.20943).
   
