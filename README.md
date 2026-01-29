@@ -73,6 +73,7 @@ My research experience spans machine learning theory, deep learning, reinforceme
 
 
 \* Authors contributed equally to this work.
+
 --------------
 ## Professional Experience
 **Software Development Engineer Intern**, _Amazon_ (Summer 2025) 
