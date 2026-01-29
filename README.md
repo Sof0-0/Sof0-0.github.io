@@ -35,7 +35,7 @@ My research experience spans machine learning theory, deep learning, reinforceme
 *Romina Mahinpei\*, Sofiia Druchyna\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
-- Introduced a mixed-methods framework for assessing the real-world impact of data-driven tools, focusing on how human decision-makers use algorithmic recommendations in high-stakes settings. Applied to the RCT of algorithm-assisted advising, we combined quantitative causal-effects analyses, conditional independence testing, and qualitative reviews to explore equity impacts and the role of advisor discretion in enhancing student outcomes beyond algorithmic insights.
+- Empirically demonstrated how and when LLMs can support teaching assistants in proof-based courses through a multi-part case study in a real undergraduate class—systematically comparing LLM and human grading decisions across expertise levels and evaluating TA preferences for LLM-generated feedback to motivate human–AI designs that separate evaluative judgment from formative support.
 
 **CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (SIGCSE TS 2026 Poster) \
 *Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
@@ -61,19 +61,18 @@ My research experience spans machine learning theory, deep learning, reinforceme
 ![Computer Architecture Badge](https://img.shields.io/badge/Computer%20Architecture-pink) 
 - Built a disassembler that takes in a binary file (or a text file) as input and displays the equivalent RISC-V assembly instructions along with the binary code.
 
-
-\* Authors contributed equally to this work.
-
 --------------
 ## Publications
-- Anand Brahmbhatt, Gon Buzaglo, and Sofiia Druchyna. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
+- Anand Brahmbhatt\*, Gon Buzaglo\*, and Sofiia Druchyna\*. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
   
-- Anand Brahmbhatt, Gon Buzaglo, and Sofiia Druchyna. September 2025. _Efficient Spectral Control of Partially Observed Linear Dynamical Systems._ NEURIPS 2025, DynaFront Workshop. [arXiV](https://arxiv.org/pdf/2505.20943).
+- Anand Brahmbhatt\*, Gon Buzaglo\*, and Sofiia Druchyna\*. September 2025. _Efficient Spectral Control of Partially Observed Linear Dynamical Systems._ NEURIPS 2025, DynaFront Workshop. [arXiV](https://arxiv.org/pdf/2505.20943).
   
 - Devan Shah, Shlomo Fortgang, and Sofiia Druchyna. September 2025. _SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models._ NEURIPS 2025. [arXiV](https://arxiv.org/abs/2505.17868).
   
 - Craig P. Orgeron, William Rials, and Sofiia Druchyna. January 2025. _The AI-Driven State: How Government-as-a-Service Is Transforming Public Service._ International Journal of Electronic Government Research (IJEGR), 21(1), 1–24. [IGI Global Scientific Publishing](https://www.igi-global.com/article/the-ai-driven-state/381327).
-   
+
+
+\* Authors contributed equally to this work.
 --------------
 ## Professional Experience
 **Software Development Engineer Intern**, _Amazon_ (Summer 2025) 
