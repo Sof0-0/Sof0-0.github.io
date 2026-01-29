@@ -91,7 +91,7 @@ My research experience spans machine learning theory, deep learning, reinforceme
 ## Teaching
 I have had the privilege of contributing to the instruction of the following courses:
 
-- **COS 324 Introduction to ML**, Princeton University (Assistant Instructor) (Spring 2025 - Spring 2026)
+- **COS 324 Introduction to ML**, Princeton University (Assistant Instructor/Head TA) (Spring 2025 - Spring 2026)
 - **COS 316 Computer Systems Design**, Princeton University (Assistant Instructor) (Fall 2024)
 - **CMPS 2300 Computer Systems and Networking**, Tulane University (Assistant Instructor) (2023-2024)
 - **CPMPS 1600 Introduction to Computer Science II**, Tulane University (Teaching Assistant) (Spring 2023)
