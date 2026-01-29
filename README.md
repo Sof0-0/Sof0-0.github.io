@@ -63,13 +63,13 @@ My research experience spans machine learning theory, deep learning, reinforceme
 
 --------------
 ## Publications
-- Anand Brahmbhatt\*, Gon Buzaglo\*, and Sofiia Druchyna\*. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
+- Anand Brahmbhatt\*, Gon Buzaglo\*, and **Sofiia Druchyna\***. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
   
-- Anand Brahmbhatt\*, Gon Buzaglo\*, and Sofiia Druchyna\*. September 2025. _Efficient Spectral Control of Partially Observed Linear Dynamical Systems._ NEURIPS 2025, DynaFront Workshop. [arXiV](https://arxiv.org/pdf/2505.20943).
+- Anand Brahmbhatt\*, Gon Buzaglo\*, and **Sofiia Druchyna\***. September 2025. _Efficient Spectral Control of Partially Observed Linear Dynamical Systems._ NEURIPS 2025, DynaFront Workshop. [arXiV](https://arxiv.org/pdf/2505.20943).
   
-- Devan Shah, Shlomo Fortgang, and Sofiia Druchyna. September 2025. _SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models._ NEURIPS 2025. [arXiV](https://arxiv.org/abs/2505.17868).
+- Devan Shah, Shlomo Fortgang, and **Sofiia Druchyna**. September 2025. _SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models._ NEURIPS 2025. [arXiV](https://arxiv.org/abs/2505.17868).
   
-- Craig P. Orgeron, William Rials, and Sofiia Druchyna. January 2025. _The AI-Driven State: How Government-as-a-Service Is Transforming Public Service._ International Journal of Electronic Government Research (IJEGR), 21(1), 1–24. [IGI Global Scientific Publishing](https://www.igi-global.com/article/the-ai-driven-state/381327).
+- Craig P. Orgeron, William Rials, and **Sofiia Druchyna**. January 2025. _The AI-Driven State: How Government-as-a-Service Is Transforming Public Service._ International Journal of Electronic Government Research (IJEGR), 21(1), 1–24. [IGI Global Scientific Publishing](https://www.igi-global.com/article/the-ai-driven-state/381327).
 
 
 \* Authors contributed equally to this work.
