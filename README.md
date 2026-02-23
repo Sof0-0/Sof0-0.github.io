@@ -37,7 +37,8 @@ My research experience spans machine learning theory, deep learning, reinforceme
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Empirically demonstrated how and when LLMs can support teaching assistants in proof-based courses through a multi-part case study in a real undergraduate class—systematically comparing LLM and human grading decisions across expertise levels and evaluating TA preferences for LLM-generated feedback to motivate human–AI designs that separate evaluative judgment from formative support.
 
-**CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (SIGCSE TS 2026 Poster) \
+**CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (SIGCSE TS 2026)
+[[ACM Library]](https://doi.org/10.1145/3770761.3777193)\
 *Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
