@@ -12,6 +12,20 @@ My research experience spans machine learning theory, deep learning, reinforceme
 --------------
 ## Projects
 
+**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CHI 2026) \
+*Romina Mahinpei\*, Sofiia Druchyna\** \
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
+![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
+- Empirically demonstrated how and when LLMs can support teaching assistants in proof-based courses through a multi-part case study in a real undergraduate class—systematically comparing LLM and human grading decisions across expertise levels and evaluating TA preferences for LLM-generated feedback to motivate human–AI designs that separate evaluative judgment from formative support.
+
+**CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (SIGCSE TS 2026)
+[[ACM Library]](https://doi.org/10.1145/3770761.3777193)\
+*Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
+![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
+- Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference in Philadelphia, PA.
+- Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs (CHANE) before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
+
 **Efficient Spectral Control of Partially Observed Linear Dynamical Systems** (NEURIPS 2025) 
 [[arXiv]](https://arxiv.org/pdf/2505.20943) \
 *Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
@@ -30,20 +44,6 @@ My research experience spans machine learning theory, deep learning, reinforceme
 *Devan Shah, Shlomo Fortgang, Sofiia Druchyna, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
-
-**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CHI 2026) \
-*Romina Mahinpei\*, Sofiia Druchyna\** \
-![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
-![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
-- Empirically demonstrated how and when LLMs can support teaching assistants in proof-based courses through a multi-part case study in a real undergraduate class—systematically comparing LLM and human grading decisions across expertise levels and evaluating TA preferences for LLM-generated feedback to motivate human–AI designs that separate evaluative judgment from formative support.
-
-**CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (SIGCSE TS 2026)
-[[ACM Library]](https://doi.org/10.1145/3770761.3777193)\
-*Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
-![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
-![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
-- Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference in Philadelphia, PA.
-- Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs (CHANE) before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
 
 **Honors Thesis: "Enhancing Teaching Methods of File Systems from the Educational Perspective"** 
 [[Paper]](https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326) \
@@ -64,6 +64,8 @@ My research experience spans machine learning theory, deep learning, reinforceme
 
 --------------
 ## Publications
+- Romina Mahinpei, **Sofiia Druchyna**, and Xinran Bi. February 2026. _CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education._ SIGCSE Technical Symposium 2026. [ACM Library](https://doi.org/10.1145/3770761.3777193).
+
 - Anand Brahmbhatt\*, Gon Buzaglo\*, and **Sofiia Druchyna\***. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
   
 - Anand Brahmbhatt\*, Gon Buzaglo\*, and **Sofiia Druchyna\***. September 2025. _Efficient Spectral Control of Partially Observed Linear Dynamical Systems._ NEURIPS 2025, DynaFront Workshop. [arXiV](https://arxiv.org/pdf/2505.20943).
