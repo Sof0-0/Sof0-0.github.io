@@ -2,7 +2,7 @@ I am a fully-funded second year Master of Science & Engineering (MSE) student at
 
 I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity from the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
 
-My research experience spans machine learning theory, deep learning, reinforcement learning, computer architecture, computer systems, LLMs in education, and cybersecurity policy.  My current research interests are in **Spectral Control Theory**, **Online Learning and Optimization**, **Deep RL and LLMs**, **Algorithmic Decision-Making**, **AI and Education**.
+My research experience spans machine learning theory, online control and optimization, DL/RL, computer architecture, computer systems, LLMs in education, and cybersecurity policy. My current research interests are in **AI and Education**, **Algorithmic Decision-Making**, **HCI**, **Causal Inference**, **Online Learning and Optimization**.
 
 <div style="text-align: center;">
 <a href="mailto:sonikd2e3@gmail.com">Email</a> | <a href="assets/files/Resume_Full.pdf">CV</a> | <a href="https://www.linkedin.com/in/sofiia-druchyna-cs/">LinkedIn</a> | <a href="https://www.researchgate.net/profile/Sofiia-Druchyna">ResearchGate</a>
@@ -24,7 +24,7 @@ My research experience spans machine learning theory, deep learning, reinforceme
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference in Philadelphia, PA.
-- Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs (CHANE) before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
+- Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
 
 **Efficient Spectral Control of Partially Observed Linear Dynamical Systems** (NEURIPS 2025) 
 [[arXiv]](https://arxiv.org/pdf/2505.20943) \
@@ -64,7 +64,7 @@ My research experience spans machine learning theory, deep learning, reinforceme
 
 --------------
 ## Publications
-- Romina Mahinpei, **Sofiia Druchyna**, and Xinran Bi. February 2026. _CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education._ SIGCSE Technical Symposium 2026. [ACM Library](https://doi.org/10.1145/3770761.3777193).
+- Romina Mahinpei, **Sofiia Druchyna**, and Xinran Bi. February 2026. _CNPE: A Human-Centered Framework of Challenges and Needs in Proof Education._ SIGCSE Technical Symposium 2026. [ACM Library](https://doi.org/10.1145/3770761.3777193).
 
 - Anand Brahmbhatt\*, Gon Buzaglo\*, and **Sofiia Druchyna\***. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
   
