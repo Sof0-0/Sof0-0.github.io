@@ -64,7 +64,7 @@ My research experience spans machine learning theory, online control and optimiz
 
 --------------
 ## Publications
-- Romina Mahinpei, **Sofiia Druchyna**, and Xinran Bi. February 2026. _CNPE: A Human-Centered Framework of Challenges and Needs in Proof Education._ SIGCSE Technical Symposium 2026. [ACM Library](https://doi.org/10.1145/3770761.3777193).
+- Romina Mahinpei\*, **Sofiia Druchyna\***, and Xinran Bi. February 2026. _CNPE: A Human-Centered Framework of Challenges and Needs in Proof Education._ SIGCSE Technical Symposium 2026. [ACM Library](https://doi.org/10.1145/3770761.3777193).
 
 - Anand Brahmbhatt\*, Gon Buzaglo\*, and **Sofiia Druchyna\***. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
   
