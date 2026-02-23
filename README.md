@@ -13,14 +13,14 @@ My research experience spans machine learning theory, online control and optimiz
 ## Projects
 
 **Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CHI 2026) \
-*Romina Mahinpei\*, Sofiia Druchyna\** \
+*Romina Mahinpei, Sofiia Druchyna* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Empirically demonstrated how and when LLMs can support teaching assistants in proof-based courses through a multi-part case study in a real undergraduate class—systematically comparing LLM and human grading decisions across expertise levels and evaluating TA preferences for LLM-generated feedback to motivate human–AI designs that separate evaluative judgment from formative support.
 
 **CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (SIGCSE TS 2026)
 [[ACM Library]](https://doi.org/10.1145/3770761.3777193)\
-*Romina Mahinpei\*, Sofiia Druchyna\*, Xinran Bi\** \
+*Romina Mahinpei, Sofiia Druchyna, Xinran Bi* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference in Philadelphia, PA.
@@ -64,7 +64,7 @@ My research experience spans machine learning theory, online control and optimiz
 
 --------------
 ## Publications
-- Romina Mahinpei\*, **Sofiia Druchyna\***, and Xinran Bi. February 2026. _CNPE: A Human-Centered Framework of Challenges and Needs in Proof Education._ SIGCSE Technical Symposium 2026. [ACM Library](https://doi.org/10.1145/3770761.3777193).
+- Romina Mahinpei, **Sofiia Druchyna**, and Xinran Bi. February 2026. _CNPE: A Human-Centered Framework of Challenges and Needs in Proof Education._ SIGCSE Technical Symposium 2026. [ACM Library](https://doi.org/10.1145/3770761.3777193).
 
 - Anand Brahmbhatt\*, Gon Buzaglo\*, and **Sofiia Druchyna\***. January 2026. _A New Approach to Controlling Linear Dynamical Systems._ ICLR 2026, NYRL Workshop. [arXiV](https://www.arxiv.org/abs/2504.03952).
   
