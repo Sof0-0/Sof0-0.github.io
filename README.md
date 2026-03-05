@@ -12,7 +12,8 @@ My research experience spans machine learning theory, online control and optimiz
 --------------
 ## Projects
 
-**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CHI 2026) \
+**Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CSCW 2026)
+[[arXiv]](https://arxiv.org/abs/2602.23635) \
 *Romina Mahinpei, Sofiia Druchyna* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
