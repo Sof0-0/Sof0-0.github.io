@@ -1,4 +1,4 @@
-I am a fully-funded second year Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/), advised by [Professor Elad Hazan](https://www.ehazan.com). 
+I am a fully-funded second year Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/), pursuing research at [Google DeepMind Princeton](https://sites.google.com/view/gbrainprinceton/home) led by [Professor Elad Hazan](https://www.ehazan.com). 
 
 I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity from the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
 
