@@ -24,7 +24,7 @@ My research experience spans machine learning theory, online control and optimiz
 *Romina Mahinpei, Sofiia Druchyna, Xinran Bi* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
-- Poster presented at iRAISE Workshop as a part of AAAI 2025 Conference in Philadelphia, PA.
+- Poster additionally presented at iRAISE Workshop as a part of AAAI 2025 Conference in Philadelphia, PA.
 - Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
 
 **Efficient Spectral Control of Partially Observed Linear Dynamical Systems** (NEURIPS 2025) 
@@ -37,7 +37,7 @@ My research experience spans machine learning theory, online control and optimiz
 [[arXiv]](https://www.arxiv.org/abs/2504.03952) \
 *Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-darkgreen)
-- Poster presented at NEURIPS 2025 DynaFront (San Diego, CA) and NYRL 2025 (New York, NY) Workshops.
+- Poster additionally presented at NEURIPS 2025 DynaFront (San Diego, CA) and NYRL 2025 (New York, NY) Workshops.
 - Proposed a new method for controlling linear dynamical systems under adversarial disturbances and cost functions. Our algorithm achieves a running time that scales polylogarithmically with the inverse of the stability margin, improving upon prior methods with polynomial dependence maintaining the same regret guarantees.
 
 **SpectraLDS: Distilling Spectral Filters into Constant-Time Recurrent Models** (NEURIPS 2025)
