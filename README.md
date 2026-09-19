@@ -1,16 +1,26 @@
-I am a fully-funded second year Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/), pursuing research at [Google DeepMind Princeton](https://sites.google.com/view/gbrainprinceton/home) led by [Professor Elad Hazan](https://www.ehazan.com). 
+I am a first-year PhD candidate at ETH Zürich's [Chair of Strategic Management and Innovation (SMI)](https://smi.ethz.ch/) within the [Department of Management, Technology, and Economics (D-MTEC)](https://mtec.ethz.ch/), where I am supervised by [Professor Dr. Georg von Krogh](https://en.wikipedia.org/wiki/Georg_von_Krogh) and [Dr. Ann-Kristin Weiser](https://smi.ethz.ch/group-people/sr/annk.html).
 
-I received a Bachelor of Science (BSc) degree (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity from the Tulane University, New Orleans. Upon my graduation I was inducted into the Phi Betta Kappa and Chi Alpha Sigma Honors Societies. 
+Previously, I earned my Master of Science in Engineering (MSE) from [Princeton University's Computer Science Department](https://www.cs.princeton.edu/) on a full scholarship, conducting research at [Google DeepMind Princeton](https://sites.google.com/view/gbrainprinceton/home) led by [Professor Elad Hazan](https://www.ehazan.com). I completed my Bachelor of Science (BSc) (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity at Tulane University, New Orleans. Upon graduation, I was inducted into the Phi Beta Kappa and Chi Alpha Sigma honor societies.
 
-My research experience spans machine learning theory, online control and optimization, DL/RL, computer architecture, computer systems, LLMs in education, and cybersecurity policy. My current research interests are in **AI and Education**, **Algorithmic Decision-Making**, **HCI**, **Causal Inference**, **Online Learning and Optimization**.
+My research experience spans machine learning theory, online control and optimization, DL/RL, computer architecture, computer systems, LLMs in education, and cybersecurity policy. My current research interests are in **AI Strategy**, **Technology Management**, **Innovation**, **Algorithmic Decision-Making**, and **AI Education**.
 
 <div style="text-align: center;">
-<a href="mailto:sonikd2e3@gmail.com">Email</a> | <a href="assets/files/Resume_Full.pdf">CV</a> | <a href="https://www.linkedin.com/in/sofiia-druchyna-cs/">LinkedIn</a> | <a href="https://www.researchgate.net/profile/Sofiia-Druchyna">ResearchGate</a>
+<a href="mailto:sonikd2e3@gmail.com">Email</a> | <a href="assets/files/Resume_Full.pdf">CV</a> | <a href="https://www.linkedin.com/in/sofiia-druchyna-cs/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=7SuWXXIAAAAJ&hl=en">GoogleScholar</a>
 <p></p>
 </div>
 
 --------------
 ## Projects
+
+**There’s More Than One Way: Mode Collapse in RLVR and ModeBench"** (Submitted to ICLR 2027) \
+*Liv G. d'Aliberti, Marwa Abdulhai, Sofiia Druchyna, Peter Henderson, Manoel Horta Ribeiro* \
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
+
+- Demonstrated that reinforcement learning with verifiable rewards (RLVR) can improve accuracy while collapsing onto fewer correct solution modes, and introduced ModeBench for measuring verified solution diversity and Re:Max, a verifier-guided memory and rehearsal method that improves both accuracy and solution diversity.
+
+**Masters Thesis: "Spectral Credit Redistribution for GRPO in Long-Horizon Reinforcement Learning from Human Feedback"**  \
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
+- Developed a spectral credit assignment method for Group-Relative Policy Optimization (GRPO) that redistributes sequence-level rewards across token positions, capturing the temporal structure of language generation to reduce gradient variance in long-horizon RLHF without requiring additional critics or token-level rewards.
 
 **Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CSCW 2026)
 [[arXiv]](https://arxiv.org/abs/2602.23635) \
@@ -28,7 +38,7 @@ My research experience spans machine learning theory, online control and optimiz
 - Explored the integration of interactive theorem provers (ITPs) into undergraduate proof-based Computer Science (CS) courses at Princeton University, emphasizing the importance of addressing stakeholder challenges and needs before implementing AI solutions. We highlight both the potential and limitations of ITPs, advocating for a human-centered approach to responsibly integrate AI tools into education, which can serve as a model for diverse educational contexts.
 
 **Efficient Spectral Control of Partially Observed Linear Dynamical Systems** (NEURIPS 2025) 
-[[arXiv]](https://arxiv.org/pdf/2505.20943) \
+[[arXiv]](https://arxiv.org/abs/2505.20943) \
 *Anand Brahmbhatt\*, Gon Buzaglo\*, Sofiia Druchyna\*, Elad Hazan* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![Online Learning](https://img.shields.io/badge/Online%20Learning-darkgreen)
 - Proposed a new method for controlling linear dynamical systems under partial observation and adversarial disturbances. Our new algorithm, Double Spectral Control (DSC), matches the best known regret guarantees while exponentially improving runtime complexity over previous approaches in its dependence on the system's stability margin.
