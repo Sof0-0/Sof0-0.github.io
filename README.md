@@ -14,19 +14,19 @@ My research experience spans machine learning theory, online control and optimiz
 
 **There’s More Than One Way: Mode Collapse in RLVR and ModeBench"** (Submitted to ICLR 2027) \
 *Liv G. d'Aliberti, Marwa Abdulhai, Sofiia Druchyna, Peter Henderson, Manoel Horta Ribeiro* \
-![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
 
 - Demonstrated that reinforcement learning with verifiable rewards (RLVR) can improve accuracy while collapsing onto fewer correct solution modes, and introduced ModeBench for measuring verified solution diversity and Re:Max, a verifier-guided memory and rehearsal method that improves both accuracy and solution diversity.
 
 **Masters Thesis: "Spectral Credit Redistribution for GRPO in Long-Horizon Reinforcement Learning from Human Feedback"**  \
-![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
+![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
 - Developed a spectral credit assignment method for Group-Relative Policy Optimization (GRPO) that redistributes sequence-level rewards across token positions, capturing the temporal structure of language generation to reduce gradient variance in long-horizon RLHF without requiring additional critics or token-level rewards.
 
 **Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CSCW 2026)
 [[arXiv]](https://arxiv.org/abs/2602.23635) \
 *Romina Mahinpei, Sofiia Druchyna* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
-![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
+![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) 
 - Empirically demonstrated how and when LLMs can support teaching assistants in proof-based courses through a multi-part case study in a real undergraduate class—systematically comparing LLM and human grading decisions across expertise levels and evaluating TA preferences for LLM-generated feedback to motivate human–AI designs that separate evaluative judgment from formative support.
 
 **CNPE: A Human-Centered Framework for Integrating Interactive Theorem Provers into Proof Education** (SIGCSE TS 2026)
