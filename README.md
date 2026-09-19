@@ -1,4 +1,4 @@
-I am a first-year PhD candidate at ETH Zürich's [Chair of Strategic Management and Innovation (SMI)](https://smi.ethz.ch/) within the [Department of Management, Technology, and Economics (D-MTEC)](https://mtec.ethz.ch/), where I am supervised by [Professor Dr. Georg von Krogh](https://en.wikipedia.org/wiki/Georg_von_Krogh) and [Dr. Ann-Kristin Weiser](https://smi.ethz.ch/group-people/sr/annk.html).
+I am a first-year PhD candidate at ETH Zürich's [Chair of Strategic Management and Innovation (SMI)](https://smi.ethz.ch/) within the [Department of Management, Technology, and Economics (D-MTEC)](https://mtec.ethz.ch/), where I am supervised by [Professor Dr.Georg von Krogh](https://en.wikipedia.org/wiki/Georg_von_Krogh) and [Dr.Ann-Kristin Weiser](https://smi.ethz.ch/group-people/sr/annk.html).
 
 Previously, I earned my Master of Science in Engineering (MSE) from [Princeton University's Computer Science Department](https://www.cs.princeton.edu/) on a full scholarship, conducting research at [Google DeepMind Princeton](https://sites.google.com/view/gbrainprinceton/home) led by [Professor Elad Hazan](https://www.ehazan.com). I completed my Bachelor of Science (BSc) (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity at Tulane University, New Orleans. Upon graduation, I was inducted into the Phi Beta Kappa and Chi Alpha Sigma honor societies.
 
@@ -12,19 +12,19 @@ My research experience spans machine learning theory, online control and optimiz
 --------------
 ## Projects
 
-**There’s More Than One Way: Mode Collapse in RLVR and ModeBench"** (Submitted to ICLR 2027) \
+**There’s More Than One Way: Mode Collapse in RLVR and ModeBench** (Submitted to ICLR 2027) \
 *Liv G. d'Aliberti, Marwa Abdulhai, Sofiia Druchyna, Peter Henderson, Manoel Horta Ribeiro* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
 
-- Demonstrated that reinforcement learning with verifiable rewards (RLVR) can improve accuracy while collapsing onto fewer correct solution modes, and introduced ModeBench for measuring verified solution diversity and Re:Max, a verifier-guided memory and rehearsal method that improves both accuracy and solution diversity.
+- Demonstrated that reinforcement learning with verifiable rewards (RLVR) can improve accuracy while collapsing onto fewer correct solution modes. We introduced ModeBench for measuring verified solution diversity and Re:Max, a verifier-guided memory and rehearsal method that improves both accuracy and solution diversity.
 
-**Masters Thesis: "Spectral Credit Redistribution for GRPO in Long-Horizon Reinforcement Learning from Human Feedback"**  \
+**Master's Thesis: "Spectral Credit Redistribution for GRPO in Long-Horizon Reinforcement Learning from Human Feedback"**  \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
 - Developed a spectral credit assignment method for Group-Relative Policy Optimization (GRPO) that redistributes sequence-level rewards across token positions, capturing the temporal structure of language generation to reduce gradient variance in long-horizon RLHF without requiring additional critics or token-level rewards.
 
 **Language Models as Teaching Assistant Companions: Evidence from Experiments in a Proof-Based Course** (Submitted to CSCW 2026)
 [[arXiv]](https://arxiv.org/abs/2602.23635) \
-*Romina Mahinpei, Sofiia Druchyna* \
+*Romina Mahinpei, Sofiia Druchyna, Manoel Horta Ribeiro* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![HCI Badge](https://img.shields.io/badge/HCI-silver)
 ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) 
 - Empirically demonstrated how and when LLMs can support teaching assistants in proof-based courses through a multi-part case study in a real undergraduate class—systematically comparing LLM and human grading decisions across expertise levels and evaluating TA preferences for LLM-generated feedback to motivate human–AI designs that separate evaluative judgment from formative support.
@@ -56,7 +56,7 @@ My research experience spans machine learning theory, online control and optimiz
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![Control Theory Badge](https://img.shields.io/badge/Control%20Theory-darkblue) ![LLMs Badge](https://img.shields.io/badge/LLM-darkpink) 
 - Introduced the first method, SpectraLDS architecture, for system identification of a symmetric linear dynamical system with provable robustness guarantees and with performance independent of the effective memory of the system or state dimension of the underlying system.
 
-**Honors Thesis: "Enhancing Teaching Methods of File Systems from the Educational Perspective"** 
+**Bachelor's Thesis: "Enhancing Teaching Methods of File Systems from the Educational Perspective"** 
 [[Paper]](https://library.search.tulane.edu/permalink/01TUL_INST/1jgl1pd/alma9945574993306326) \
 ![File Systems Badge](https://img.shields.io/badge/File%20Systems-green) ![Computer Science Education](https://img.shields.io/badge/Computer%20Science%20Education-red)
 - Developed an innovative teaching approach that introduces undergraduate students to the concepts of file systems through hands-on experience. WaveFS is a new lab assignment for the Computer Systems and Networking class at Tulane University, focusing on creating a simple Unix-like file system using the File System in Userspace (FUSE) interface. The lab assignment involves implementing basic file system operations to read and write data, as well as manage directories and files.
