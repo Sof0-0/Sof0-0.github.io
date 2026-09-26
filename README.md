@@ -1,4 +1,4 @@
-I am a first-year PhD candidate at ETH Zürich's [Chair of Strategic Management and Innovation (SMI)](https://smi.ethz.ch/) within the [Department of Management, Technology, and Economics (D-MTEC)](https://mtec.ethz.ch/), where I am supervised by [Professor Dr.Georg von Krogh](https://en.wikipedia.org/wiki/Georg_von_Krogh) and [Dr.Ann-Kristin Weiser](https://smi.ethz.ch/group-people/sr/annk.html).
+I am a first-year PhD candidate at ETH Zürich's [Chair of Strategic Management and Innovation (SMI)](https://smi.ethz.ch/) within the [Department of Management, Technology, and Economics (D-MTEC)](https://mtec.ethz.ch/), where I am supervised by [Professor Dr. Georg von Krogh](https://en.wikipedia.org/wiki/Georg_von_Krogh) and [Dr. Ann-Kristin Weiser](https://smi.ethz.ch/group-people/sr/annk.html).
 
 Previously, I earned my Master of Science in Engineering (MSE) from [Princeton University's Computer Science Department](https://www.cs.princeton.edu/) on a full scholarship, conducting research at [Google DeepMind Princeton](https://sites.google.com/view/gbrainprinceton/home) led by [Professor Elad Hazan](https://www.ehazan.com). I completed my Bachelor of Science (BSc) (_Summa Cum Laude_) with Honors in Computer Science and Cybersecurity at Tulane University, New Orleans. Upon graduation, I was inducted into the Phi Beta Kappa and Chi Alpha Sigma honor societies.
 
@@ -13,7 +13,7 @@ My research experience spans machine learning theory, online control and optimiz
 ## Projects
 
 **There’s More Than One Way: Mode Collapse in RLVR and ModeBench** (Submitted to ICLR 2027) \
-*Liv G. d'Aliberti, Marwa Abdulhai, Sofiia Druchyna, Peter Henderson, Manoel Horta Ribeiro* \
+*Liv G. d'Aliberti, M. Abdulhai, S. Druchyna, P. Henderson, M. H. Ribeiro* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
 
 - Demonstrated that reinforcement learning with verifiable rewards (RLVR) can improve accuracy while collapsing onto fewer correct solution modes. We introduced ModeBench for measuring verified solution diversity and Re:Max, a verifier-guided memory and rehearsal method that improves both accuracy and solution diversity.
