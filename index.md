@@ -5,7 +5,7 @@ Previously, I earned my Master of Science in Engineering (MSE) from [Princeton U
 My research experience spans machine learning theory, online control and optimization, DL/RL, computer architecture, computer systems, LLMs in education, and cybersecurity policy. My current research interests are in **AI Strategy**, **Technology Management**, **Innovation**, **Algorithmic Decision-Making**, and **AI Education**.
 
 <div style="text-align: center;">
-<a href="mailto:sonikd2e3@gmail.com">Email</a> | <a href="assets/files/Resume_Full.pdf">CV</a> | <a href="https://www.linkedin.com/in/sofiia-druchyna-cs/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=7SuWXXIAAAAJ&hl=en">GoogleScholar</a>
+<a href="mailto:sonikd2e3@gmail.com">Email</a> | |<a href="https://orcid.org/0009-0008-5500-454X">ORCID </a>| <a href="assets/files/Resume_Full.pdf">CV</a> | <a href="https://www.linkedin.com/in/sofiia-druchyna-cs/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=7SuWXXIAAAAJ&hl=en">GoogleScholar</a>
 <p></p>
 </div>
 
