@@ -12,7 +12,7 @@ My research experience spans machine learning theory, online control and optimiz
 --------------
 ## Projects
 
-**There’s More Than One Way: Mode Collapse in RLVR and ModeBench** (Submitted to ICLR 2027) \
+**Measuring and Mitigating Mode Reasoning Collapse in RLVR** (Submitted to ICLR 2027) \
 *Liv G. d'Aliberti, M. Abdulhai, S. Druchyna, P. Henderson, M. H. Ribeiro* \
 ![ML/AI Badge](https://img.shields.io/badge/ML/AI-yellow) ![LLMs Badge](https://img.shields.io/badge/LLMs-darkpink) ![RLHF Badge](https://img.shields.io/badge/RLHF-brown)
 
